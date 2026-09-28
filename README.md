@@ -4,7 +4,7 @@
 
 - Why? I stumbled upon economics and actually really love it. I chose statistics because I love analyzing data and optimization. 
 
-⌨️ Languages: R (intermediate), LaTeX (beginner), Julia (beginner), Python (beginner), Java (Beginner).
+⌨️ Languages: R (intermediate), LaTeX (Intermediate), Julia (beginner), Python (beginner), Java (Beginner).
 
 ⌨️ Software: VS Code, RStudio, Git, GitHub, Jupyter Notebook, Quarto, Google Colab. 
 
